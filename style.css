@@ -7,7 +7,7 @@ p{
 }
 
 body {
-  animation: call 10s linear infinite;
+  animation: call 18s linear infinite;
 }
 
 @keyframes call {
